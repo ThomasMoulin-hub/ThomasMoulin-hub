@@ -23,7 +23,6 @@
 ![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/Cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
@@ -31,7 +30,6 @@
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=plastic&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=fastapi&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-FF6F00.svg?style=plastic)
@@ -46,7 +44,6 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF.svg?style=plastic&logo=neo4j&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=plastic&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
 
 
 

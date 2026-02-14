@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [Thomas Moulin](https://github.com/ThomasMoulin-hub)
 
 # 💫 About Me:
-🎓 Télécom Paris engineering X Columbia Engineering student<br>💡  Machine Learning, Deep Learning, Computer Vision, Applied Maths Biomedical Engineering
+🎓 Télécom Paris engineering X Columbia Engineering student<br>💡  Machine Learning, Deep Learning, Computer Vision, Applied Maths, Biomedical Engineering
 
 
 ## 🌐 Socials:
